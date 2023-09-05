@@ -347,9 +347,3 @@ healthchecksdb
 .PublishFiles
 !.template.config/*.nupkg
 .docs/contents/.vuepress/dist/*
-
-S1-系统代码/Kimi.Blog/Kimi.Blog.WebAPI/Kimi.Blog.Model.xml
-S1-系统代码/Kimi.Blog/Kimi.Blog.WebAPI/Kimi.Blog.WebAPI.xml
-
-S1-系统代码/Kimi.CSMP/Kimi.CSMP.WebAPI/wwwroot/Temp_Storage/*
-
