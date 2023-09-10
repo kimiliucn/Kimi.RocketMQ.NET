@@ -20,6 +20,14 @@
 - .NET Framework +
 
 
+### 👏 使用教程
+- 第一章：https://www.cnblogs.com/kimiliucn/p/17662052.html
+- 第二章：https://www.cnblogs.com/kimiliucn/p/17667200.html
+
+
+### 👏 NuGet包
+- 地址：https://www.nuget.org/packages/Kimi.RocketMQ.NET/
+
 
 ### 👏 贡献代码
 
